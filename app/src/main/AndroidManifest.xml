@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.eggdevs.myquizapp">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/quiz_app_icon"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/quiz_app_icon_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".question5" />
+        <activity android:name=".result_screen" />
+        <activity android:name=".question4" />
+        <activity android:name=".question3" />
+        <activity android:name=".question2" />
+        <activity android:name=".question1" />
+        <activity android:name=".male_female" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".StartSplashScreen" android:theme="@style/splash_back">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

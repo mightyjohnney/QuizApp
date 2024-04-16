@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">Fictional Character Quiz</string>
+
+    <string name="quiz_name">Which fictional character are you?</string>
+
+    <string name="question_1">You would like to spend your time:</string>
+    <string name="question1_option1">Watching TV/Movies</string>
+    <string name="question1_option2">Outing</string>
+    <string name="question1_option3">sleeping</string>
+    <string name="question1_option4">reading books</string>
+
+    <string name="question_2">If you got a supernatural power, what would it be?</string>
+    <string name="question2_option1">Reading Minds</string>
+    <string name="question2_option2">Teleportation</string>
+    <string name="question2_option3">Invisibility</string>
+    <string name="question2_option4">superhuman strength</string>
+
+    <string name="question_3">You would likely to be trapped in?</string>
+    <string name="question3_option1">Library</string>
+    <string name="question3_option2">School/College</string>
+    <string name="question3_option3">Forest</string>
+    <string name="question3_option4">Playground</string>
+
+    <string name="question_4">How would people describe you?</string>
+    <string name="question4_option1">funny</string>
+    <string name="question4_option2">rude</string>
+    <string name="question4_option3">boring</string>
+    <string name="question4_option4">sweet</string>
+
+    <string name="question_5">What would you do, if your best friend was in danger?</string>
+    <string name="question5_option1">Call help</string>
+    <string name="question5_option2">fight</string>
+    <string name="question5_option3">run away</string>
+    <string name="question5_option4">do nothing</string>
+
+    <string name="final_result">Final Result</string>
+    <string name="character_desc">Character Description</string>
+
+    <string name="anna">Princess Anna from the movie Frozen!</string>
+    <string name="anna_desc">You\'re cheerful, goofy, optimistic, loyal, extrovert and a hopeless romantic with a pure and loving heart.
+        You are sweet yet tenacious. To you, family matters the most. They might not talk to you or
+        shut you out, but you still love them like how Anna loves Elsa. Like you, a selfless Kristoff is
+    waiting for you somewhere out there. Hope you find him soon!</string>
+
+    <string name="hermione">Hermione Granger from Harry Potter!</string>
+    <string name="hermione_desc">You are a bookworm, bossy and a graceful women. You won\'t mind spending your whole
+        life in a library. You are smart, intelligent and the best there is and ever will be. You always think
+    before you act. You have zero tolerance level. You are sometimes rude but know how to make up with
+    people. Other people\'s opinion matters to you. You are a great wizard. And its leviOsa!</string>
+
+    <string name="dora">Dora from Dora the Explorer!</string>
+    <string name="dora_desc">You friendly and enthusiastic, but sometimes you show over enthusiasm.
+    You don\'t hold grudges. Sometimes people say you are blind because you cannot see the things in
+    front of you. You enjoy sports. You wear same clothes everyday. God knows why you are always talking
+    to your stuffs. Swiper No Swiping!</string>
+
+    <string name="widow">Natasha Romanoff from Marvel!</string>
+    <string name="widow_desc">You are a strong women. You do not like people to know much about you.
+    You have the most awesome friend circle anyone could have. You guys like to call yourself The Avengers.
+    You are always in a fight with you rival group Justice League. You always have your friends back.
+    On the outside, you are a superhuman but you do have soft heart!</string>
+
+    <string name="annabelle">Annabelle, the haunted doll!</string>
+    <string name="annabelle_desc">You are the most holy person on this planet! You are strong much like a devil inside
+    a human\'s body. You are sometimes scary. You just want everyone\'s souls. God knows what will you do with
+    them. You live inside a case and it is better that nobody opens it. You like to play pranks on others.
+    Stop getting more and more scary!</string>
+
+    <string name="loki">Loki from Marvel!</string>
+    <string name="loki_desc">You are like the God of Mischief, likes to play around and have some fun.
+    You are a bit self centered but will join forces if necessary. Your relationship with people can be
+    a bit complicated sometimes, but it doesn\'t bother you that much. You don\'t see yourself as a superhero
+    but you are. You have a soft heart for your family and will fight for them if needed!</string>
+
+    <string name="tony">Tony Stark from Marvel!</string>
+    <string name="tony_desc">In your mind, you are a genius, billionaire and philanthropist. If not the
+    favourite, but you are everyone\'s need. People seems to believe that you are a self centered guy,
+    but you do care for your fellas and always have their back. You always find solutions to yours and other
+    people\'s problems. You are a true leader. You are Iron Man!</string>
+
+    <string name="harry">Harry James Potter!</string>
+    <string name="harry_desc">You are a prodigy or you can say you are the chosen one. You have a small but
+    trustworthy friend circle. There are some ups and downs in your life but you have a strong character.
+    You are a true friend and would do anything for others. You and your friends likes adventure once in
+    a while. You are a true wizard. Expecto Patronum!</string>
+
+    <string name="shinchan">Shinchan Nohara, 5 years old!</string>
+    <string name="shinchan_desc">You are funny and everyone\'s favourite. You love choco-chips and Action Kamen.
+     Your mom thrashes you everyday but it doesn\'t seems to bother you.
+    You have a weird fashion sense. You are brutally honest, highly curious
+    and has no shame whatsoever but you have a kind nature. You sometimes display a level of maturity beyond
+    your usual self in concern of others. You truly care for others despite your constant disrespectful
+    nature!</string>
+    <string name="quiz_by_ayush_and_vanshika">quiz by ayush interekkupanda studios</string>
+</resources>
