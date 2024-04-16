@@ -38,11 +38,11 @@ public class result_screen extends AppCompatActivity {
         btPlayAgain = findViewById(R.id.btPlayAgain);
 
         gender = getIntent().getStringExtra("gender");
-        question1 = getIntent().getStringExtra("question1");
-        question2 = getIntent().getStringExtra("question2");
-        question3 = getIntent().getStringExtra("question3");
-        question4 = getIntent().getStringExtra("question4");
-        question5 = getIntent().getStringExtra("question5");
+        question1 = getIntent().getStringExtra("Question1");
+        question2 = getIntent().getStringExtra("Question2");
+        question3 = getIntent().getStringExtra("Question3");
+        question4 = getIntent().getStringExtra("Question4");
+        question5 = getIntent().getStringExtra("Question5");
 
     /*    if (gender.equals("male")) {
 
