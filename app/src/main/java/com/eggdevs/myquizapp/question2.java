@@ -50,19 +50,19 @@ public class question2 extends AppCompatActivity implements View.OnClickListener
 
         switch (v.getId()) {
             case R.id.question2_option1 :
-                question2 = "option1";
+                question2 = "Option1";
                 option1.setBackgroundColor(Color.parseColor("#58F868"));
                 break;
             case R.id.question2_option2 :
-                question2 = "option2";
+                question2 = "Option2";
                 option2.setBackgroundColor(Color.parseColor("#58F868"));
                 break;
             case R.id.question2_option3 :
-                question2 = "option3";
+                question2 = "Option3";
                 option3.setBackgroundColor(Color.parseColor("#58F868"));
                 break;
             case R.id.question2_option4 :
-                question2 = "option4";
+                question2 = "Option4";
                 option4.setBackgroundColor(Color.parseColor("#58F868"));
                 break;
         }
