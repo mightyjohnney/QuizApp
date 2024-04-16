@@ -39,8 +39,8 @@ public class question3 extends AppCompatActivity implements View.OnClickListener
         option4.setOnClickListener(this);
 
         gender = getIntent().getStringExtra("gender");
-        question1 = getIntent().getStringExtra("question1");
-        question2 = getIntent().getStringExtra("question2");
+        question1 = getIntent().getStringExtra("Question1");
+        question2 = getIntent().getStringExtra("Question2");
     }
 
     @Override
